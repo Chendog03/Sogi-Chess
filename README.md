@@ -1,5 +1,8 @@
 ## About
 
+<img width="866" alt="Screenshot 2022-04-15 at 23 48 33" src="https://user-images.githubusercontent.com/49842647/163650462-453f1a18-12b2-4328-91f3-bf7efd9a8e2d.png">
+
+
 Sogi is a 16x12 chess variation imagined by my friend and brought to life as a proof of concept in about a week of work. It was my introduction to the real applications of python and my first use of some powerful libraries (see below). The whole project lacks professionalism because I didn't start the project thinking it would go this far. I hope to clean up some of the code in the future.
 
 
