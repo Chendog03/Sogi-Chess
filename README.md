@@ -22,7 +22,9 @@ The game can also be run online with _server code.py_ and _sogi client.py_. The 
 ## Contact
 
 Chenson Hope-Simes
+
 email - chensonhopesimes@gmail.com
+
 web - [chen.dog](https://www.chen.dog/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
