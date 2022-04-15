@@ -106,7 +106,7 @@ class EchoFactory(protocol.ClientFactory):
 clientName = 'username'
 
 FACTORY = EchoFactory()
-reactor.connectTCP("81.151.61.39", 25565, FACTORY)
+reactor.connectTCP("localhost", 8000, FACTORY)
 
 threading.Thread(target=reactor.run, args=(False,)).start()
 
